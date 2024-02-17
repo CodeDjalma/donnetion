@@ -1,0 +1,6 @@
+<img src="./img/vértice.png" height="500" width="700">
+          <p>A empresa oferece uma plataforma de venda de ingressos online fácil de usar, que permite aos clientes comprar ingressos para uma ampla variedade de eventos, como shows, festivais, conferências, entre outros. Além disso, a Vértice também oferece soluções personalizadas para eventos, trabalhando em estreita colaboração com seus clientes para garantir que suas necessidades específicas sejam atendidas.</p>
+          </div>
+          <div>
+          <img src="./img/greenfarm.png" height="500" width="700">
+          <p>Uma empresa de moda online vegana comprometida em fornecer roupas de alta qualidade sem prejudicar animais ou o meio ambiente. A empresa acredita que a moda pode ser sustentável e consciente e, por isso, trabalha exclusivamente com materiais veganos e ecologicamente corretos em suas peças.
